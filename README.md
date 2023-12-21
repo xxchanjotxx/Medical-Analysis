@@ -34,4 +34,12 @@ After removing the outliers, normalizing the data, and calculating whether an in
 
 ![image](https://github.com/xxchanjotxx/Medical-Analysis/assets/78687582/1678512d-6e00-4160-bc42-e8fa5ef4908a)
 
+---
+## Analysis:
+
+- A person consuming alcohol is likely to smoke and vice versa
+- A person with high glucose is likely to have high cholesterol and vice versa
+- Diastolic pressure is a significant factor in determining the presence of cardiovascular disease
+- Age, Weight, and Cholesterol also play a part in determining the presence of cardiovascular disease
+- Higher the Cholesterol, being Overweight, more the chances of cardiovascular disease
 
