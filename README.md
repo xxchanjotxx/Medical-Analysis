@@ -32,3 +32,6 @@ After removing the outliers, normalizing the data, and calculating whether an in
 
 <img width="1048" alt="image" src="https://github.com/xxchanjotxx/Medical-Analysis/assets/78687582/9a10f9ec-93ca-4726-baa5-be42129e2f6c">
 
+![image](https://github.com/xxchanjotxx/Medical-Analysis/assets/78687582/1678512d-6e00-4160-bc42-e8fa5ef4908a)
+
+
